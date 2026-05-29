@@ -1,0 +1,15 @@
+{
+  "name": "AXIS — Adaptive Experience Intelligence",
+  "short_name": "AXIS",
+  "description": "Your personal AI entity. Built for Divine.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#c9a84c",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ],
+  "categories": ["productivity", "lifestyle"],
+  "lang": "en-NG"
+}
